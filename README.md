@@ -4,12 +4,12 @@
 ## 💬 Ask me about
 - Backend web development (Java/Kotlin/Groovy/Go)
 - Frontend web development (React/Angular)
-- Software Testing (Selenium/Selenide/Allure/Playwright)
+- Software Testing (Playwright/Selenium/Selenide/Allure)
 
 ## 💻 Current project
 - [Synthesized](https://github.com/synthesized-io)
 
-## 🔭 Love to teach
+## 🔭 Love to share the knowledge
 - Here is my OSS [lectures about Software Testing in Russian](https://github.com/volekerb/testing-lectures)
 - [Engineer Reading telegram channel](https://t.me/engineerreadings)
 
