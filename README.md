@@ -14,8 +14,8 @@
 - [Engineer Reading telegram channel](https://t.me/engineerreadings)
 
 ## 😄 Love conferences
-- Was a Programm Commitee Member of one of the biggest conference about Software Testing [Heisenbug](https://heisenbug.ru/en/) for 5 years
-- Was a Programm Commitee Member of Java conferences [Joker](https://jokerconf.com/en/), [JPoint](https://jpoint.ru/en/)
+- Was a Program Commitee Member of one of the biggest conference about Software Testing [Heisenbug](https://heisenbug.ru/en/) for 5 years
+- Was a Program Commitee Member of Java conferences [Joker](https://jokerconf.com/en/), [JPoint](https://jpoint.ru/en/)
 - Have done >20 talks(mostly in Russian) and done numerous interviews
 
 ## ⚡ Love podcasting and blogging
@@ -25,4 +25,4 @@
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/brekelov)
-
+- [LinkedIn](https://www.linkedin.com/in/brekelov/)
