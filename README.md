@@ -7,7 +7,7 @@
 - Software Testing (Playwright/Selenium/Selenide/Allure)
 
 ## 💻 Current project
-- [Synthesized](https://github.com/synthesized-io)
+- Miro
 
 ## 🔭 Love to share the knowledge
 - Here is my OSS [lectures about Software Testing in Russian](https://github.com/volekerb/testing-lectures)
