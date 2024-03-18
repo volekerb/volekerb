@@ -14,14 +14,14 @@
 - [Engineer Reading telegram channel](https://t.me/engineerreadings)
 
 ## 😄 Love conferences
-- Was a Program Commitee Member of one of the biggest conference about Software Testing [Heisenbug](https://heisenbug.ru/en/) for 5 years
-- Was a Program Commitee Member of Java conferences [Joker](https://jokerconf.com/en/), [JPoint](https://jpoint.ru/en/)
-- Have done >20 talks(mostly in Russian) and done numerous interviews
+- Served as a Program Committee Member for [Heisenbug](https://heisenbug.ru/en/), one of the largest Software Testing conferences, for a span of 5 years.
+- Contributed as a Program Committee Member for prominent Java conferences such as [Joker](https://jokerconf.com/en/) and [JPoint](https://jpoint.ru/en/)
+- Delivered over 20 presentations, primarily in Russian, and engaged in numerous interviews at various events.
 
 ## ⚡ Love podcasting and blogging
-- Was a co-host and co-owner of [Bitcask podcast](https://bitcask.live/)
-- Was a co-host and co-owner of quite popular youtube videos about software engineering and testing [Survival bias](https://www.youtube.com/playlist?list=PLwvQQeADNQWcA0NdtL6_AEXl58Gf7ERuw)
-- Wrote >10 blog posts aroung testing and software development on [Habr](https://habr.com/ru/users/vbrekelov/posts/)
+- Co-hosted and co-owned the [Bitcask podcast](https://bitcask.live/) podcast, engaging with a diverse audience on software-related topics
+- Co-hosted and co-owned popular YouTube videos exploring software engineering and testing: [Survival bias](https://www.youtube.com/playlist?list=PLwvQQeADNQWcA0NdtL6_AEXl58Gf7ERuw)
+- Authored over 10 blog posts on testing and software development published on [Habr](https://habr.com/ru/users/vbrekelov/posts/), a prominent platform in the tech community
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/brekelov)
